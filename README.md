@@ -4,7 +4,7 @@
 
 🚀 Here's a glimpse of my skill set:
 
-Proficient in JavaScript, React Native, Node.js, Express, PHP, CSS,C#,Java, Python, SQL, MongoDB, Neo4j, BerkeleyDB, Android Development, and Unity (to some extent). I also have a basic understanding of C/C++.
+Proficient in Java,Python,JavaScript, React Native, Node.js, Express, PHP, CSS,C#,SQL, MongoDB, Neo4j, BerkeleyDB, Android Development, and Unity (to some extent). I also have a basic understanding of C/C++.
 
 🧙‍♂️ When I'm not coding, you can find me hitting the gym to stay active, enjoying classic movies, or embarking on thrilling adventures around the globe.
 
